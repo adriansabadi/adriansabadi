@@ -10,27 +10,25 @@ My name is **Adrián Sabadí Rodríguez**. I am a Computer Engineering student. 
 
 ## Technologies & Tools
 ### Programming Languages
-<i class="devicon-java-plain-wordmark colored"></i>
-<i class="devicon-python-plain-wordmark colored"></i>
-<i class="devicon-cplusplus-plain"></i>
-<i class="devicon-javascript-plain colored"></i>
-<i class="devicon-css3-plain-wordmark colored"></i>
-<i class="devicon-html5-plain-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
 ### Frameworks & Libraries
-<i class="devicon-tailwindcss-original colored"></i>
-<i class="devicon-bootstrap-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 
 ### Databases
-<i class="devicon-sqlite-plain-wordmark colored"></i>
-<i class="devicon-postgresql-plain-wordmark colored"></i>
-<i class="devicon-mariadb-original-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
 
 ### Development Tools
-<i class="devicon-vscode-plain colored"></i>
-<i class="devicon-git-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-https://github-readme-stats.vercel.app/api?username=adriansabadi&show_icons=true&theme=radical
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=adriansabadi&layout=compact&theme=radical
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriansabadi)](https://github.com/anuraghazra/github-readme-stats)
 
