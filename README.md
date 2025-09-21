@@ -24,6 +24,8 @@ My name is **Adrián Sabadí Rodríguez**. I am a Computer Engineering student. 
 <p align="left">
     <img height=48 width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img height=48 width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+    <img height=48 width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+    <img height=48 width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 </p>
 
 
@@ -40,7 +42,3 @@ My name is **Adrián Sabadí Rodríguez**. I am a Computer Engineering student. 
     <img height=48 width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     <img height=48 width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriansabadi)](https://github.com/anuraghazra/github-readme-stats)
-
